@@ -1,4 +1,4 @@
-import { Engine } from "@babylonjs/core";
+import { Engine } from "babylonjs";
 import { CreatePlaygroundScene } from "./Playground/playground";
 
 export interface InitializeBabylonAppOptions {
